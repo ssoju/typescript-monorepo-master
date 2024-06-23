@@ -1,0 +1,14 @@
+packages/*/dist
+node_modules
+packages/*/tsconfig.tsbuildinfo
+tsconfig.tsbuildinfo
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+coverage
+cypress/screenshots/*
+cypress/videos/*
